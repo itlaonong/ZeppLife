@@ -1,0 +1,11 @@
+{
+  "USER": "3267059858@qq.com",
+  "PWD": "admin@123",
+  "MIN_STEP": "6000",
+  "MAX_STEP": "15034",
+  "PUSH_PLUS_TOKEN": "",
+  "PUSH_PLUS_HOUR": "",
+  "PUSH_PLUS_MAX": "30",
+  "SLEEP_GAP": "5",
+  "USE_CONCURRENT": "False"
+}
